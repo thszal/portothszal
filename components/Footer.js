@@ -9,17 +9,17 @@ export default function Footer() {
             Let's make a frame.
           </p>
           <a
-            href="https://instagram.com/your-handle"
+            href="https://instagram.com/thszal"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-4 font-sans text-amber hover:text-paper transition-colors"
           >
-            @your-handle on Instagram
+            @thszal on Instagram
           </a>
         </div>
 
         <p className="font-sans text-xs text-muted">
-          © {year} Mayzal Pratama. Frame by frame.
+          © {year} Ijal. Frame by frame.
         </p>
       </div>
     </footer>
